@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="exit">Exit</string>
+    <string name="nameApp">Калькулятор</string>
+</resources>
